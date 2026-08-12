@@ -3,8 +3,22 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-
-
+https://raw.githubusercontent.com/cyh92/live/main/source/migu.m3u
+https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo.txt
+https://live.zbds.top/tv/iptv4.txt
+https://raw.githubusercontent.com/pdd520/iptv-api/master/output/result.txt
+https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt
+https://raw.githubusercontent.com/JE668/m3u-checker-max/main/output/live.m3u
+https://raw.githubusercontent.com/yyyr-otz/iptv-api/master/output/user_result.txt
+https://raw.githubusercontent.com/kimwang1978/collect-txt/main/bbxx_lite.txt
+https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-API/main/cmlive.txt
+https://raw.githubusercontent.com/XinMan939/iptv-api/master/output/result.txt
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
+http://cms.supertv01.com/zhibo/iptv.txt
+https://raw.githubusercontent.com/qaz1371041/-IPTV/main/output/live.txt
+http://202.140.142.145:40207/zhibo/iptv.txt
 
 
 [WHITELIST]
