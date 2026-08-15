@@ -302,3 +302,60 @@
 2026-08-14T04:25:47+00:00 INFO    [run=ac03c4c0f1b34681881f7c98efdf6038 phase=statistics event=statistics.finished] 频道统计完成：测试 2080，有效 659
 2026-08-14T04:25:47+00:00 INFO    [run=ac03c4c0f1b34681881f7c98efdf6038 phase=complete event=run.summary] 更新摘要
 2026-08-14T04:25:47+00:00 INFO    [run=ac03c4c0f1b34681881f7c98efdf6038 phase=complete event=run.finished] 更新完成！总耗时：14:09
+2026-08-15T02:54:47+00:00 INFO    [event=application.started] IPTV-API 版本: 3.0.0 (构建时间: 2026-08-07 11:45:59)
+2026-08-15T02:54:47+00:00 INFO    [phase=prepare event=network.ipv6.checking] 🛜 正在检查当前网络是否支持IPv6...
+2026-08-15T02:54:47+00:00 WARNING [phase=prepare event=network.ipv6.unsupported] 当前网络不支持IPv6，别担心，IPv6的结果会被保存下来
+2026-08-15T02:54:47+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=prepare event=run.started] 性能模式: auto → balance，可用资源: 4.0 CPU / 15.61 GB，并发: 测速 8、媒体探测 2、源抓取 8
+2026-08-15T02:54:47+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=prepare event=channels.catalog_loaded] 频道目录已加载：白名单 0，黑名单 14，台标 21
+2026-08-15T02:54:48+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=sources.subscribe.summary] 订阅源数量：16，订阅白名单数量：0，停用地址数量：0，有效总数量：16
+2026-08-15T02:54:48+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=progress.started] 正在进行获取订阅源  0/16
+2026-08-15T02:54:48+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=sources.epg.summary] EPG源数量：1，EPG白名单数量：0，停用地址数量：0，有效总数量：1
+2026-08-15T02:54:48+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=progress.started] 正在进行获取EPG源  0/1
+2026-08-15T02:54:49+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=progress.updated] 正在进行获取订阅源  1/16 (6%)  剩余 15
+2026-08-15T02:54:49+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=epg.source_parsed] EPG 源解析完成：http://e.erw.cc/e.xml.gz，保留节目 3937 条
+2026-08-15T02:54:49+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=progress.updated] 正在进行获取EPG源  1/1 (100%)  剩余 0
+2026-08-15T02:54:49+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=progress.updated] 正在进行获取订阅源  3/16 (18%)  剩余 13
+2026-08-15T02:54:49+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=progress.updated] 正在进行获取订阅源  5/16 (31%)  剩余 11
+2026-08-15T02:54:49+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=sources.epg.finished] EPG源: ✅ 有效地址数量：1，⛔ 停用地址数量：0
+2026-08-15T02:54:49+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=progress.finished] 正在进行获取EPG源  1/1  匹配 114 个频道
+2026-08-15T02:54:50+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=progress.updated] 正在进行获取订阅源  7/16 (43%)  剩余 9
+2026-08-15T02:54:50+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=progress.updated] 正在进行获取订阅源  9/16 (56%)  剩余 7
+2026-08-15T02:54:50+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=progress.updated] 正在进行获取订阅源  11/16 (68%)  剩余 5
+2026-08-15T02:54:51+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=progress.updated] 正在进行获取订阅源  13/16 (81%)  剩余 3
+2026-08-15T02:54:51+00:00 WARNING [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=request.retrying] 🔄 请求http://cms.supertv01.com/zhibo/iptv.txt失败，正在进行第1次重试...
+2026-08-15T02:54:52+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=progress.updated] 正在进行获取订阅源  15/16 (93%)  剩余 1
+2026-08-15T02:54:52+00:00 WARNING [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=source.request_failed] 订阅源请求失败：❌ 请求http://cms.supertv01.com/zhibo/iptv.txt失败，已达到最大重试次数
+2026-08-15T02:54:52+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=progress.updated] 正在进行获取订阅源  16/16 (100%)  剩余 0
+2026-08-15T02:54:52+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=sources.subscribe.finished] 订阅源: ✅ 有效地址数量：16，⛔ 停用地址数量：0
+2026-08-15T02:54:52+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=fetch event=progress.finished] 正在进行获取订阅源  16/16  未匹配 10000
+2026-08-15T02:57:01+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=aggregate event=channels.aggregated] 频道数据聚合完成：477 个频道，25135 个接口（IPv4 23514 / IPv6 1621）
+2026-08-15T02:57:01+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=speed_test.planned] 总接口数量: 12072, 需要进行测速的接口数量: 10831
+2026-08-15T02:57:01+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.started] 测速  0/10831
+2026-08-15T02:57:02+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  1/10831 (0%)  有效 0  失败 1  CCTV-1
+2026-08-15T02:57:33+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  95/10831 (0%)  有效 41  失败 54  CCTV-7
+2026-08-15T02:58:04+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  215/10831 (1%)  有效 108  失败 107  CCTV-16
+2026-08-15T02:58:34+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  282/10831 (2%)  有效 115  失败 167  CETV-2
+2026-08-15T02:59:05+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  340/10831 (3%)  有效 123  失败 217  CCTV4欧洲
+2026-08-15T02:59:35+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  435/10831 (4%)  有效 183  失败 252  高尔夫网球
+2026-08-15T03:00:05+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  511/10831 (4%)  有效 218  失败 293  湖北卫视4K
+2026-08-15T03:00:36+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  618/10831 (5%)  有效 231  失败 387  浙江卫视
+2026-08-15T03:01:06+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  761/10831 (7%)  有效 340  失败 421  江西卫视
+2026-08-15T03:01:36+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  880/10831 (8%)  有效 417  失败 463  宁夏卫视
+2026-08-15T03:02:07+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  994/10831 (9%)  有效 452  失败 542  明珠台
+2026-08-15T03:02:37+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  1103/10831 (10%)  有效 470  失败 633  纬来育乐
+2026-08-15T03:03:07+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  1223/10831 (11%)  有效 514  失败 709  陈情令
+2026-08-15T03:03:37+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  1292/10831 (11%)  有效 550  失败 742  经典港片
+2026-08-15T03:04:08+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  1361/10831 (12%)  有效 573  失败 788  全职高手
+2026-08-15T03:04:38+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  1452/10831 (13%)  有效 603  失败 849  靖天映画
+2026-08-15T03:05:08+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  1564/10831 (14%)  有效 610  失败 954  睛彩篮球
+2026-08-15T03:05:38+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  1637/10831 (15%)  有效 630  失败 1007  五星体育
+2026-08-15T03:06:08+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  1715/10831 (15%)  有效 646  失败 1069  武术世界
+2026-08-15T03:06:39+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  1812/10831 (16%)  有效 649  失败 1163  劲爆体育
+2026-08-15T03:07:09+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  1869/10831 (17%)  有效 662  失败 1207  吉林篮球
+2026-08-15T03:07:39+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.updated] 测速  1926/10831 (17%)  有效 672  失败 1254  西游记
+2026-08-15T03:07:44+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=speed_test.artifacts_written] 测速明细已写入 output/log/speed_test.log，有效结果已写入 output/log/result.log
+2026-08-15T03:07:44+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=speed_test event=progress.finished] 测速  10831/10831  有效 677  失败 1268
+2026-08-15T03:07:45+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=output event=output.written] 结果文件生成完成：更新 3 个文件
+2026-08-15T03:07:46+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=statistics event=statistics.finished] 频道统计完成：测试 1945，有效 677
+2026-08-15T03:07:46+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=complete event=run.summary] 更新摘要
+2026-08-15T03:07:46+00:00 INFO    [run=6416fe53a06f41c4874f0c5067a7387d phase=complete event=run.finished] 更新完成！总耗时：12:58
