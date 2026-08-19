@@ -19,7 +19,8 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.
 http://cms.supertv01.com/zhibo/iptv.txt
 https://raw.githubusercontent.com/qaz1371041/-IPTV/main/output/live.txt
 http://202.140.142.145:40207/zhibo/iptv.txt
-
+https://raw.githubusercontent.com/jn950/live/main/tv/holive.m3u
+https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
