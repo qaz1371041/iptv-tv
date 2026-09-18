@@ -22,7 +22,7 @@ http://202.140.142.145:40207/zhibo/iptv.txt
 https://raw.githubusercontent.com/jn950/live/main/tv/holive.m3u
 https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
 http://xiang.hyperphp.com/migu.txt
-
+https://www.cttv.vip/ys/json/ctzb.txt
 
 
 
