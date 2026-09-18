@@ -3,3 +3,4 @@ build
 .idea
 __pycache__/
 output/screenshots/
+output/data/channel_results.db
