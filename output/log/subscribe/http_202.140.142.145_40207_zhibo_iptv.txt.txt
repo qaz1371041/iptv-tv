@@ -1,6 +1,5 @@
 测试,#genre#
-中天,http://31.43.191.125:8080/restream/restream/34817
-中天,https://live.catvod.com/live.php?id=ctinews
+
 
 央视卫视,#genre#
 CGTN阿语,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
@@ -915,12 +914,13 @@ CHC影迷电影,http://122.227.204.50:1905/952383261
 香港台湾,#genre#
 爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://webcast.hkstv.tv:80/livestream/mutfysrq/playlist.m3u8?hls_ctx=9dl33ad6
 香港卫视,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
-香港电台,https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
-香港电台,https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
-香港电台,https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
-香港电台,https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
-香港电台://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
+香港卫视,https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
+香港卫视,https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+香港卫视,https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+香港卫视,https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+香港卫视,https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
@@ -944,20 +944,37 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 
+TVB星河,http://120.198.95.220:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&down=1
+TVB星河,http://120.198.95.220:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+明珠台,http://183.62.8.58:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+明珠台,http://183.237.95.108:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+明珠台,http://120.198.84.146:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+明珠台,http://120.238.94.82:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+TVB星河,http://183.237.95.108:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+澳门卫视,http://183.237.95.108:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,http://183.62.8.58:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,http://183.237.95.108:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,http://120.238.85.131:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,http://120.238.94.82:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,http://120.196.235.42:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,http://120.198.84.146:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
+
 TVB生活,http://iptv.4666888.xyz/iptv2A.php?id=11
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
-TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
-TVB翡翠,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
-TVB明珠,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv
-TVB翡翠,http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
+翡翠综合台,http://iptv.4666888.xyz/iptv2A.php?id=26
+翡翠台,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
+明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv
+翡翠台,http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
 TVB星河,http://120.198.95.220:9901/tsfile/live/1005_1.m3u8?key=txiptv
-TVB翡翠,http://120.238.5.44:1698/hls/83/index.m3u8
+翡翠台,http://120.238.5.44:1698/hls/83/index.m3u8
 TVB星河,http://120.238.5.44:1698/hls/88/index.m3u8
 TVB Plus,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-TVB翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=28
-TVB明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
+翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=28
+明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 TVB DRAMA,http://iptv.4666888.xyz/iptv2A.php?id=33
-TVBS综艺,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVBS欢乐,http://iptv.4666888.xyz/iptv2A.php?id=31
 MytvSuper,http://iptv.4666888.xyz/iptv2A.php?id=34
 MYTVSUPER18,http://iptv.4666888.xyz/iptv2A.php?id=32
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
@@ -975,6 +992,19 @@ RHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 黄金华剧,http://iptv.4666888.xyz/iptv2A.php?id=24
 华丽翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=17
 
+
+凤凰中文,http://120.238.85.131:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
+凤凰中文,http://120.198.84.146:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视,http://120.238.94.82:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视,http://120.196.235.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
+凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
 靖天卡通,http://iptv.4666888.xyz/iptv2A.php?id=42
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
@@ -982,9 +1012,9 @@ RHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
 
-FIGHTNETWORK,http://iptv.4666888.xyz/iptv2A.php?id=63
 娛樂百分百,http://iptv.4666888.xyz/iptv2A.php?id=64
 綜藝大贏家,http://iptv.4666888.xyz/iptv2A.php?id=65
+FIGHTNETWORK,http://iptv.4666888.xyz/iptv2A.php?id=63
 TNTSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=2
 TNTSPORTS2,http://iptv.4666888.xyz/iptv2A.php?id=4
 TNTSPORTS3,http://iptv.4666888.xyz/iptv2A.php?id=5
@@ -1083,9 +1113,9 @@ CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8
 CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8
 劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
-TVBJ1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
+翡翠综合台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
 娱乐新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153398&extension=ts&play_token=TPIp3m3TjC
-TVBJ1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=zUkGQ70Vue
+翡翠综合台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=zUkGQ70Vue
 TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
 东森美洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156397&extension=ts&play_token=2fQZ7EF20L
 HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56057&extension=ts&play_token=pqlvbiUAPq
@@ -1095,7 +1125,7 @@ TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=5711
 HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571204&extension=ts&play_token=TQWwwF8fB9
 中天亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
 天映,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941618&extension=ts&play_token=kr082FQvzN
-TVB翡翠,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
+翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
 TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941620&extension=ts&play_token=TBgeJuh42H
 TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA
 TVBS新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=E9ymAxKoVJ

@@ -1487,3 +1487,70 @@
 2026-10-01T08:50:50+00:00 INFO    [run=3c925b8d0fa34be3a50b5fd9f65f76eb phase=statistics event=statistics.finished] 频道统计完成：测试 2485，有效 584
 2026-10-01T08:50:50+00:00 INFO    [run=3c925b8d0fa34be3a50b5fd9f65f76eb phase=complete event=run.summary] 更新摘要
 2026-10-01T08:50:50+00:00 INFO    [run=3c925b8d0fa34be3a50b5fd9f65f76eb phase=complete event=run.finished] 更新完成！总耗时：18:54
+2026-10-02T08:07:31+00:00 INFO    [event=application.started] IPTV-API 版本: 3.0.0 (构建时间: 2026-08-07 11:45:59)
+2026-10-02T08:07:31+00:00 INFO    [phase=prepare event=network.ipv6.checking] 🛜 正在检查当前网络是否支持IPv6...
+2026-10-02T08:07:31+00:00 WARNING [phase=prepare event=network.ipv6.unsupported] 当前网络不支持IPv6，别担心，IPv6的结果会被保存下来
+2026-10-02T08:07:31+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=prepare event=run.started] 性能模式: auto → balance，可用资源: 4.0 CPU / 15.61 GB，并发: 测速 8、媒体探测 2、源抓取 8
+2026-10-02T08:07:31+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=prepare event=channels.catalog_loaded] 频道目录已加载：白名单 0，黑名单 14，台标 21
+2026-10-02T08:07:31+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=sources.subscribe.summary] 订阅源数量：20，订阅白名单数量：0，停用地址数量：0，有效总数量：20
+2026-10-02T08:07:31+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=progress.started] 正在进行获取订阅源  0/20
+2026-10-02T08:07:31+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=sources.epg.summary] EPG源数量：1，EPG白名单数量：0，停用地址数量：0，有效总数量：1
+2026-10-02T08:07:31+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=progress.started] 正在进行获取EPG源  0/1
+2026-10-02T08:07:32+00:00 WARNING [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=request.retrying] 🔄 请求http://e.erw.cc/e.xml.gz失败，正在进行第1次重试...
+2026-10-02T08:07:32+00:00 ERROR   [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=source.parse_failed] http://e.erw.cc/e.xml.gz 出错：❌ 请求http://e.erw.cc/e.xml.gz失败，已达到最大重试次数
+2026-10-02T08:07:32+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=progress.updated] 正在进行获取EPG源  1/1 (100%)  剩余 0
+2026-10-02T08:07:32+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=sources.epg.finished] EPG源: ✅ 有效地址数量：1，⛔ 停用地址数量：0
+2026-10-02T08:07:32+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=progress.finished] 正在进行获取EPG源  1/1  匹配 0 个频道
+2026-10-02T08:07:33+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=progress.updated] 正在进行获取订阅源  1/20 (5%)  剩余 19
+2026-10-02T08:07:33+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=progress.updated] 正在进行获取订阅源  3/20 (15%)  剩余 17
+2026-10-02T08:07:33+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=progress.updated] 正在进行获取订阅源  5/20 (25%)  剩余 15
+2026-10-02T08:07:33+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=progress.updated] 正在进行获取订阅源  7/20 (35%)  剩余 13
+2026-10-02T08:07:34+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=progress.updated] 正在进行获取订阅源  9/20 (45%)  剩余 11
+2026-10-02T08:07:34+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=progress.updated] 正在进行获取订阅源  11/20 (55%)  剩余 9
+2026-10-02T08:07:34+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=progress.updated] 正在进行获取订阅源  13/20 (65%)  剩余 7
+2026-10-02T08:07:35+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=progress.updated] 正在进行获取订阅源  15/20 (75%)  剩余 5
+2026-10-02T08:07:35+00:00 WARNING [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=request.retrying] 🔄 请求http://cms.supertv01.com/zhibo/iptv.txt失败，正在进行第1次重试...
+2026-10-02T08:07:36+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=progress.updated] 正在进行获取订阅源  17/20 (85%)  剩余 3
+2026-10-02T08:07:36+00:00 WARNING [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=source.request_failed] 订阅源请求失败：❌ 请求http://cms.supertv01.com/zhibo/iptv.txt失败，已达到最大重试次数
+2026-10-02T08:07:36+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=progress.updated] 正在进行获取订阅源  19/20 (95%)  剩余 1
+2026-10-02T08:07:37+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=progress.updated] 正在进行获取订阅源  20/20 (100%)  剩余 0
+2026-10-02T08:07:37+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=sources.subscribe.finished] 订阅源: ✅ 有效地址数量：20，⛔ 停用地址数量：0
+2026-10-02T08:07:37+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=fetch event=progress.finished] 正在进行获取订阅源  20/20  未匹配 10000
+2026-10-02T08:09:48+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=aggregate event=channels.aggregated] 频道数据聚合完成：477 个频道，26505 个接口（IPv4 23934 / IPv6 2571）
+2026-10-02T08:09:49+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=speed_test.planned] 总接口数量: 12656, 需要进行测速的接口数量: 11114
+2026-10-02T08:09:49+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.started] 测速  0/11114
+2026-10-02T08:09:49+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  1/11114 (0%)  有效 0  失败 1  CCTV-1
+2026-10-02T08:10:19+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  90/11114 (0%)  有效 34  失败 56  CCTV-5+
+2026-10-02T08:10:49+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  151/11114 (1%)  有效 34  失败 117  CCTV-5+
+2026-10-02T08:11:20+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  220/11114 (1%)  有效 48  失败 172  CCTV-5+
+2026-10-02T08:11:50+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  311/11114 (2%)  有效 99  失败 212  CCTV-17
+2026-10-02T08:12:20+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  379/11114 (3%)  有效 107  失败 272  CETV-2
+2026-10-02T08:12:50+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  448/11114 (4%)  有效 113  失败 335  CETV-4
+2026-10-02T08:13:21+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  514/11114 (4%)  有效 113  失败 401  CCTV4美洲
+2026-10-02T08:13:53+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  600/11114 (5%)  有效 159  失败 441  高尔夫网球
+2026-10-02T08:14:23+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  686/11114 (6%)  有效 187  失败 499  CGTN阿语
+2026-10-02T08:14:54+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  746/11114 (6%)  有效 187  失败 559  CGTN法语
+2026-10-02T08:15:24+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  847/11114 (7%)  有效 195  失败 652  浙江卫视
+2026-10-02T08:15:55+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  979/11114 (8%)  有效 288  失败 691  湖北卫视
+2026-10-02T08:16:25+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  1093/11114 (9%)  有效 352  失败 741  兵团卫视
+2026-10-02T08:16:55+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  1162/11114 (10%)  有效 360  失败 802  黑龙江卫视
+2026-10-02T08:17:25+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  1240/11114 (11%)  有效 379  失败 861  翡翠台
+2026-10-02T08:17:55+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  1318/11114 (11%)  有效 391  失败 927  凤凰香港
+2026-10-02T08:18:25+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  1428/11114 (12%)  有效 410  失败 1018  靖天资讯
+2026-10-02T08:18:56+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  1520/11114 (13%)  有效 445  失败 1075  鹿鼎记
+2026-10-02T08:19:26+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  1587/11114 (14%)  有效 479  失败 1108  喜剧专场
+2026-10-02T08:19:56+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  1647/11114 (14%)  有效 505  失败 1142  新楚留香
+2026-10-02T08:20:26+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  1724/11114 (15%)  有效 528  失败 1196  电视剧三
+2026-10-02T08:20:56+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  1793/11114 (16%)  有效 540  失败 1253  黑莓电影
+2026-10-02T08:21:26+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  1925/11114 (17%)  有效 546  失败 1379  睛彩篮球
+2026-10-02T08:21:57+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  1998/11114 (17%)  有效 559  失败 1439  广东体育
+2026-10-02T08:22:27+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  2067/11114 (18%)  有效 564  失败 1503  快乐垂钓
+2026-10-02T08:22:58+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  2125/11114 (19%)  有效 566  失败 1559  JSPORTS1
+2026-10-02T08:23:28+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  2149/11114 (19%)  有效 566  失败 1583  咪咕直播24
+2026-10-02T08:23:59+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.updated] 测速  2204/11114 (19%)  有效 581  失败 1623  睛彩羽毛球
+2026-10-02T08:24:23+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=speed_test.artifacts_written] 测速明细已写入 output/log/speed_test.log，有效结果已写入 output/log/result.log
+2026-10-02T08:24:23+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=speed_test event=progress.finished] 测速  11114/11114  有效 592  失败 1678
+2026-10-02T08:24:24+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=output event=output.written] 结果文件生成完成：更新 3 个文件
+2026-10-02T08:24:25+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=statistics event=statistics.finished] 频道统计完成：测试 2270，有效 592
+2026-10-02T08:24:25+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=complete event=run.summary] 更新摘要
+2026-10-02T08:24:25+00:00 INFO    [run=b33da8e591bc446fbc1dc2a7d0fb8b61 phase=complete event=run.finished] 更新完成！总耗时：16:53
