@@ -1,260 +1,64 @@
 测试,#genre#
-凤凰中文,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=13&s=0
-凤凰资讯,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=14&s=0
-凤凰香港,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=6&s=0
-TVB 翡翠,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=1&s=0
-TVB Plus,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=4&s=0
-TVB 明珠,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=5&s=0
-TVB 星河,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=248&s=0
-无线新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=3&s=0
-Now新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=267&s=0
-HOY78,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=7&s=0
-RTHK31,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=8&s=0
-RTHK32,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=10&s=0
-Viu,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=9&s=0
-Viu6,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=18&s=0
-TVB 娱乐,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=16&s=0
-TVB 经典,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=17&s=0
-台视,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=24&s=0
-中视,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=26&s=0
-民视,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=27&s=0
-华视,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=29&s=0
-TVBS亚洲,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=15&s=0
-TVBS欢乐,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=19&s=0
-TVBS,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=20&s=0
-TVBS新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=81&s=0
-东森新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=84&s=0
-东森财经,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=85&s=0
-中天新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=86&s=0
-非凡新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=87&s=0
-台视新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=89&s=0
-民视新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=92&s=0
-寰宇新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=95&s=0
-中视新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=96&s=0
-年代新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=53&s=0
-台视综合,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=25&s=0
-民视台湾,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=28&s=0
-八大第一,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=31&s=0
-八大综合,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=32&s=0
-八大戏剧,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=33&s=0
-八大娱乐,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=34&s=0
-中天娱乐,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=21&s=0
-中天综合,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=22&s=0
-中天亚洲,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=23&s=0
-三立台湾,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=39&s=0
-三立戏剧,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=40&s=0
-三立综合,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=41&s=0
-三立都会,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=42&s=0
-东森综合,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=43&s=0
-东森戏剧,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=44&s=0
-东森幼幼,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=78&s=0
-纬来日本,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=54&s=0
-纬来体育,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=56&s=0
-纬来综合,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=57&s=0
-纬来育乐,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=58&s=0
-纬来精彩,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=59&s=0
-亚洲美食,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=63&s=0
-亚洲旅游,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=64&s=0
-公视台语,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=45&s=0
-大爱1,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=46&s=0
-大爱2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=62&s=0
-ARIRANG阿里郎频道,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=66&s=0
-MTV Live,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=72&s=0
-HBO,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=35&s=0
-HBO Hits,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=36&s=0
-HBO Signature,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=37&s=0
-HBO Family,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=110&s=0
-好莱坞电影,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=38&s=0
-AXN 台湾,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=50&s=0
-CINEMAX,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=52&s=0
-美亚电影,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=79&s=0
-纬来电影,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=55&s=0
-东森电影,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=65&s=0
-东森洋片,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=69&s=0
-CatchPlay电影,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=100&s=0
-龙祥时代,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=73&s=0
-龙华洋片,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=70&s=0
-龙华戏剧,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=47&s=0
-龙华经典,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=48&s=0
-龙华偶像,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=49&s=0
-天映频道,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=30&s=0
-天映频道(马来),http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=120&s=0
-天映经典,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=121&s=0
-爱尔达综合,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=80&s=0
-靖天国际,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=51&s=0
-靖天卡通,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=75&s=0
-华艺中文,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=77&s=0
-EYETV 旅游,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=74&s=0
-EYETV 戏剧,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=76&s=0
-Astro 翡翠,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=243&s=0
-Astro 翡翠,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=246&s=0
-Astro AEC,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=241&s=0
-Astro AOD,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=242&s=0
-Astro QJ,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=245&s=0
-Astro 爱奇艺,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=247&s=0
-Cinemax,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=102&s=0
-Animax,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=103&s=0
-Hits,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=106&s=0
-Warner TV,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=107&s=0
-Kix,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=108&s=0
-Thrill,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=109&s=0
-Boo,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=209&s=0
-DreamWorks 梦工厂动画,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=116&s=0
-Astrol Kplus,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=118&s=0
-tvN,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=117&s=0
-tvN Movie,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=119&s=0
-Rock Action,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=122&s=0
-Rock Entertainment,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=123&s=0
-动物星球,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=101&s=0
-探索频道,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=97&s=0
-Now Sports 616,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=11&s=0
-Now Sports 617,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=12&s=0
-爱尔达体育 1,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=83&s=0
-爱尔达体育 2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=88&s=0
-爱尔达体育 3,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=90&s=0
-爱尔达体育 4,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=91&s=0
-博斯无限,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=71&s=0
-博斯高球2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=93&s=0
-博斯网球,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=94&s=0
-博斯运动 1,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=67&s=0
-博斯运动 2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=68&s=0
-DAZN 1,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=98&s=0
-DAZN 2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=99&s=0
-Asia Food Network,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=82&s=0
-Astro PL 1,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=124&s=0
-Astro PL 1 (Back Up 1),http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=125&s=0
-Astro PL 1 (Back Up 2),http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=126&s=0
-Astro PL 2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=127&s=0
-Supersports 2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=128&s=0
-Astro Grandstand,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=129&s=0
-Astro Grandstand (Back Up 1),http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=130&s=0
-Astro Football,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=131&s=0
-Astro Football (Back Up 1),http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=132&s=0
-Astro W-Sports,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=133&s=0
-Astro Cricket,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=134&s=0
-Astro Golf,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=135&s=0
-Astro Sports Plus,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=136&s=0
-SPOTV 1 HD,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=137&s=0
-SPO TV 2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=138&s=0
-Astro Beinsports 1,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=139&s=0
-Astro Beinsports 2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=140&s=0
-Astro Beinsports 3,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=141&s=0
-Astro Badminton,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=142&s=0
-Astro Badminton 1,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=143&s=0
-Astro Badminton 2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=144&s=0
-NBA TV,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=145&s=0
-WWE,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=146&s=0
-Eurosport,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=147&s=0
-Arena,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=148&s=0
-Arena 2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=149&s=0
-Arena Bola 1,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=150&s=0
-Arena Bola 2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=151&s=0
-RTM Sports HD,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=152&s=0
-TVRi National,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=153&s=0
-Tnt Sports 1,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=156&s=0
-TNT Sports 2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=157&s=0
-TNT Sports 3,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=158&s=0
-TNT Sports 4,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=159&s=0
-Rugby Pass TV,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=160&s=0
-Skysports Cricket,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=161&s=0
-Skysports EPL,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=162&s=0
-Skysports F1,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=163&s=0
-Skysports Golf,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=164&s=0
-Skysports Main Event,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=165&s=0
-Skysports Mix,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=166&s=0
-Skysports Racing,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=167&s=0
-Skysports Football,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=168&s=0
-Skysports News,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=169&s=0
-Skysports Arena,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=170&s=0
-Skysports Action,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=171&s=0
-Unifi World Cup,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=172&s=0
-Unifi World Cup 2 HD,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=173&s=0
-Unifi World Cup 3 HD,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=174&s=0
-Channel 5,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=175&s=0
-Channel 5 backup,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=176&s=0
-Channel 8,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=177&s=0
-Channel 8 backup,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=178&s=0
-Channel U,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=179&s=0
-Channel U backup,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=180&s=0
-Suria,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=181&s=0
-Suria backup,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=182&s=0
-Vasantham,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=183&s=0
-Vasantham backup,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=184&s=0
-CNA backup1,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=185&s=0
-CNA backup2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=186&s=0
-CNN,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=187&s=0
-CNN backup,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=188&s=0
-CNA,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=189&s=0
-TV1,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=190&s=0
-TV1 backup,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=191&s=0
-TV2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=192&s=0
-TV3,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=193&s=0
-TV3 SD,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=194&s=0
-TV3 backup,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=195&s=0
-TV3 backup2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=196&s=0
-TV5,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=197&s=0
-NTV7,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=198&s=0
-TV9,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=200&s=0
-Al-Hijrah,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=201&s=0
-Al-Hijrah (Back up 1),http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=202&s=0
-Quran,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=203&s=0
-Sunnah,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=204&s=0
-Bernama,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=205&s=0
-Awani,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=206&s=0
-Ceria,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=207&s=0
-Oasis,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=208&s=0
-Citra,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=210&s=0
-Citra backup,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=211&s=0
-Prima,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=212&s=0
-Prima backup,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=213&s=0
-Prima backup_1,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=214&s=0
-Ria,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=215&s=0
-Ria-3,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=216&s=0
-Ria backup_1,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=217&s=0
-Awesome TV,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=218&s=0
-Aura,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=219&s=0
-Sensasi,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=220&s=0
-Siar,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=221&s=0
-Rania,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=222&s=0
-Astro Rusi,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=223&s=0
-WION,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=224&s=0
-Astro MTV,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=225&s=0
-NatGeo_Wild HD,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=226&s=0
-Animal_Planet,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=227&s=0
-Showcase,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=228&s=0
-RTM Asean,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=229&s=0
-HGTV,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=230&s=0
-TLC,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=231&s=0
-Foodnetwork Hd,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=232&s=0
-Nickelodeon,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=233&s=0
-Nick Jr,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=234&s=0
-Cartoon Network,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=235&s=0
-Animal Planet (Eng),http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=236&s=0
-NatGeo Wild HD,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=237&s=0
-TvN,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=238&s=0
-KBS World,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=239&s=0
-Sony HD,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=240&s=0
-Discovery Asia,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=249&s=0
-Dmax,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=250&s=0
-Celestial Movies HD,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=251&s=0
-Bollyone,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=252&s=0
-Astro Sunmusic,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=253&s=0
-Thangathirai,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=254&s=0
-Vinmeen,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=255&s=0
-Vellithirai,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=256&s=0
-Astro LOL,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=257&s=0
-Al_Jazeera,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=258&s=0
-BBC World News,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=259&s=0
-CNBC,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=260&s=0
-Bloomberg TV,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=261&s=0
-DW,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=262&s=0
-France 24,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=263&s=0
-Skynews,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=264&s=0
-NHK Premium,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=265&s=0
-Siar backup,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=266&s=0
-8TV,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=199&s=0
+
 
 央视卫视,#genre#
+CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+CCTV3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
+CCTV4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+CCTV5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+CCTV6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+CCTV7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+CCTV8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+CCTV9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+CCTV10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+CCTV11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+CCTV12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+CCTV13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+CCTV14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+CCTV15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+兵器科技,http://38.75.136.137:98/gslb/dsdqpub/bqkj.m3u8?auth=testpub
+高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+广东珠江,http://38.75.136.137:98/gslb/dsdqbv/gdzj.m3u8?auth=test20251009
+广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
+广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
+邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
+江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
+山东卫视,http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
+深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+黑龙江卫视,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+吉林卫视,http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+辽宁卫视,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
+天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+江西卫视,http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
+陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
+云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
+广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
+东南卫视,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+中国气象,http://38.75.136.137:98/gslb/dsdqpub/zgqx.m3u8?auth=testpub
 CGTN阿语,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 CGTN西语,https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 CCTV1,http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=6607337aa8fa6d6cd9b46915384af2
@@ -1358,7 +1162,125 @@ GOODTV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/l
 GOODTV1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 GOODTV1,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
-
+凤凰中文,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=13&s=0
+凤凰资讯,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=14&s=0
+凤凰香港,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=6&s=0
+TVB 翡翠,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=1&s=0
+TVB Plus,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=4&s=0
+TVB 明珠,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=5&s=0
+TVB 星河,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=248&s=0
+无线新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=3&s=0
+Now新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=267&s=0
+HOY78,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=7&s=0
+RTHK31,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=8&s=0
+RTHK32,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=10&s=0
+Viu,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=9&s=0
+Viu6,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=18&s=0
+TVB 娱乐,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=16&s=0
+TVB 经典,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=17&s=0
+台视,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=24&s=0
+中视,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=26&s=0
+民视,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=27&s=0
+华视,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=29&s=0
+TVBS亚洲,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=15&s=0
+TVBS欢乐,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=19&s=0
+TVBS,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=20&s=0
+TVBS新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=81&s=0
+东森新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=84&s=0
+东森财经,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=85&s=0
+中天新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=86&s=0
+非凡新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=87&s=0
+台视新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=89&s=0
+民视新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=92&s=0
+寰宇新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=95&s=0
+中视新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=96&s=0
+年代新闻,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=53&s=0
+台视综合,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=25&s=0
+民视台湾,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=28&s=0
+八大第一,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=31&s=0
+八大综合,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=32&s=0
+八大戏剧,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=33&s=0
+八大娱乐,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=34&s=0
+中天娱乐,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=21&s=0
+中天综合,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=22&s=0
+中天亚洲,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=23&s=0
+三立台湾,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=39&s=0
+三立戏剧,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=40&s=0
+三立综合,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=41&s=0
+三立都会,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=42&s=0
+东森综合,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=43&s=0
+东森戏剧,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=44&s=0
+东森幼幼,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=78&s=0
+纬来日本,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=54&s=0
+纬来体育,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=56&s=0
+纬来综合,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=57&s=0
+纬来育乐,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=58&s=0
+纬来精彩,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=59&s=0
+亚洲美食,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=63&s=0
+亚洲旅游,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=64&s=0
+公视台语,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=45&s=0
+大爱1,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=46&s=0
+大爱2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=62&s=0
+ARIRANG阿里郎频道,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=66&s=0
+MTV Live,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=72&s=0
+HBO,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=35&s=0
+HBO Hits,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=36&s=0
+HBO Signature,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=37&s=0
+HBO Family,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=110&s=0
+好莱坞电影,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=38&s=0
+AXN 台湾,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=50&s=0
+CINEMAX,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=52&s=0
+美亚电影,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=79&s=0
+纬来电影,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=55&s=0
+东森电影,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=65&s=0
+东森洋片,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=69&s=0
+CatchPlay电影,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=100&s=0
+龙祥时代,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=73&s=0
+龙华洋片,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=70&s=0
+龙华戏剧,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=47&s=0
+龙华经典,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=48&s=0
+龙华偶像,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=49&s=0
+天映频道,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=30&s=0
+天映频道(马来),http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=120&s=0
+天映经典,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=121&s=0
+爱尔达综合,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=80&s=0
+靖天国际,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=51&s=0
+靖天卡通,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=75&s=0
+华艺中文,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=77&s=0
+EYETV 旅游,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=74&s=0
+EYETV 戏剧,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=76&s=0
+Astro 翡翠,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=243&s=0
+Astro 翡翠,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=246&s=0
+Astro AEC,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=241&s=0
+Astro AOD,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=242&s=0
+Astro QJ,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=245&s=0
+Astro 爱奇艺,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=247&s=0
+Cinemax,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=102&s=0
+Animax,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=103&s=0
+Hits,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=106&s=0
+Warner TV,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=107&s=0
+Kix,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=108&s=0
+Thrill,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=109&s=0
+Boo,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=209&s=0
+DreamWorks 梦工厂动画,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=116&s=0
+Astrol Kplus,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=118&s=0
+tvN,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=117&s=0
+tvN Movie,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=119&s=0
+Rock Action,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=122&s=0
+Rock Entertainment,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=123&s=0
+动物星球,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=101&s=0
+探索频道,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=97&s=0
+Now Sports 616,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=11&s=0
+Now Sports 617,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=12&s=0
+爱尔达体育 1,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=83&s=0
+爱尔达体育 2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=88&s=0
+爱尔达体育 3,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=90&s=0
+爱尔达体育 4,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=91&s=0
+博斯无限,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=71&s=0
+博斯高球2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=93&s=0
+博斯网球,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=94&s=0
+博斯运动 1,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=67&s=0
+博斯运动 2,http://ph.huanqiuzhibo.cn/huanqiudaili.php?id=68&s=0
 海峡卫视,http://r.jdshipin.com/WtYt3
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
